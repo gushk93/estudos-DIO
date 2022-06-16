@@ -1,2 +1,9 @@
-# estudos-DIO
-Repositório de estudos dos cursos na DIO
+# REPOSITÓRIO DE ESTUDOS
+
+
+
+#### Repositório de estudos nos cursos da DIO, criado como parte do primeiro Desafio de Projeto.
+
+
+
+[Site da DIO](https://www.dio.me/)
